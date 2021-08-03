@@ -1,0 +1,9 @@
+{
+  "browserstack.maskCommands": "setvalues",
+  "browserstack.idleTimeout": 300,
+  "browserstack.debug": "true",
+  "browserstack.console": "errors",
+  "browserstack.tunnel": "true",
+  "browserstack.captureCrash": "true",
+  "browserstack.networkLogs": "true"
+}
